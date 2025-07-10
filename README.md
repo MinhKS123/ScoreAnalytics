@@ -21,10 +21,9 @@ Install requirements:
 
 ```bash
 pip install -r requirements.txt
+```
+
 🚀 How to Use
-bash
-Copy
-Edit
 python main.py path/to/credentials.json
 The script will guide you through:
 
@@ -37,9 +36,6 @@ Selecting how to convert each subject’s score (out of 10, 20, 100, or custom)
 After running, it will update your Google Sheet with converted percentage values and save a bar chart to averages.png.
 
 🧪 Example Interaction
-sql
-Copy
-Edit
 Do you want to convert the data to percentage? (yes/no): yes
 Please enter the row number to start searching for headers: 3
 Please enter the expected header names: Student Name, Math, English, Science
