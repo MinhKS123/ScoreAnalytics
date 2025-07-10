@@ -65,6 +65,6 @@ score-analytics/
 ├── README.md                # Project documentation and usage instructions
 ├── LICENSE                  # Open source license (MIT)
 ├── .gitignore               # Git ignore rules
-├── averages.png             # Output plot (ignored by Git if using the default .gitignore)
-└── credentials.json         # Your Google Sheets API credentials (ignored by Git)
+├── averages.png             # Output plot 
+└── credentials.json         # Your Google Sheets API credentials 
 ```
