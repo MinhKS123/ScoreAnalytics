@@ -57,3 +57,14 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 🙋 Support
 Feel free to open issues or pull requests to contribute or report bugs!
+
+```graphql
+score-analytics/
+├── main.py                  # Main script for data analysis
+├── requirements.txt         # List of required Python packages
+├── README.md                # Project documentation and usage instructions
+├── LICENSE                  # Open source license (MIT)
+├── .gitignore               # Git ignore rules
+├── averages.png             # Output plot (ignored by Git if using the default .gitignore)
+└── credentials.json         # Your Google Sheets API credentials (ignored by Git)
+```
